@@ -30,7 +30,7 @@
 
 - 📧 Email: salmaghalleb8@gmail.com
 - 💻 GitHub: [salmaghalleb8-sys](https://github.com/salmaghalleb8-sys)
-- 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/)
+- 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/feed/)
 
 ---
 
